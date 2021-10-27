@@ -1,5 +1,13 @@
-GET http://localhost:5000
+GET http://localhost:5000/giraffe
 
 ###
 
-POST http://localhost:5000
+POST http://localhost:5000/giraffe
+
+###
+
+GET http://localhost:5000/saturn
+
+###
+
+POST http://localhost:5000/saturn
